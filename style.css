@@ -1,0 +1,48 @@
+html{
+    background-color: #FCF6D9;
+}
+
+h1{
+    text-align: center;
+    color: #E0A8A8;
+    font-weight: 400;
+    font-family: "Science Gothic", sans-serif;
+}
+
+h2{
+    color: #be821c;
+    font-family: "Arvo", serif;
+    font-weight: 400;
+  font-style: bold;
+
+}
+
+p{
+    color: #57595B
+}
+
+#summary{
+    font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+#declaration{
+    font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+#list1{
+    font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+li{
+    color: #57595B;
+    font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
